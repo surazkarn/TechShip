@@ -275,7 +275,7 @@ section h1 span{
 
 .contact-form {
   position: relative;
-  background: #f1f1f1;
+  background: #f0f1fb;
   width: calc(100% - 400px);
   padding: 60px 40px 20px;
 }
@@ -331,7 +331,7 @@ section h1 span{
 
 .contact-info {
   width: 350px;
-  background: #f1f1f1;
+  background: #f0f1fb;
  
   padding: 60px 40px 20px;
 }
